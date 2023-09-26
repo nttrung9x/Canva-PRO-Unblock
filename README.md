@@ -1,3 +1,5 @@
+https://github.com/Fdito/Canva-PRO
+
 # Canva-PRO
 A chrome extension to use Canva PRO elements and pictures
 
