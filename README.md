@@ -5,7 +5,7 @@ A chrome extension to use Canva PRO elements and pictures
 
 # To install
 
- - Download and extract [Canva-PRO.zip](https://github.com/nttrung9x/Canva-PRO-Unblock/blob/master/Canva_PRO.zip?raw=true)
+ - Download and extract [Canva-PRO.zip](https://github.com/nttrung9x/Canva-PRO-Unblock/blob/master/Canva-PRO-extension.zip?raw=true)
  - Go to chrome://extensions
  - Enable developer mode
  - Click in 'Load unpacked'
